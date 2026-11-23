@@ -72,6 +72,7 @@ registration, invalid periods and publisher-only withdrawal.
 | Network | GenLayer Studio |
 | Contract | `0x024C5EC0B21D9d349A57259e37398a6A16524562` |
 | Deploy tx | `0x8617676cc1d9ca9267f8a38e31a7a325ef9925f9c63a6f0dc6cbec355dc67f4b` |
+| Explorer | https://explorer-studio.genlayer.com/address/0x024C5EC0B21D9d349A57259e37398a6A16524562 |
 | Live result | `TIER_1` - 9980 bps uptime, 86 minutes down of 43200, 1000 bps credit |
 
 See `evidence/live.json` for the captured assessment.

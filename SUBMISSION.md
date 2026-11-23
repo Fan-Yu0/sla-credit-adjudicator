@@ -15,6 +15,7 @@ SLA Uptime Credit Adjudicator is a reusable GenLayer primitive for machine-to-ma
 - Policy: examples/sla-policy.md
 - Contract: `0x024C5EC0B21D9d349A57259e37398a6A16524562`
 - Deploy transaction: `0x8617676cc1d9ca9267f8a38e31a7a325ef9925f9c63a6f0dc6cbec355dc67f4b`
+- Explorer: https://explorer-studio.genlayer.com/address/0x024C5EC0B21D9d349A57259e37398a6A16524562
 - Assessment transaction: `0xadc02f8b7c5abd3e9de5b566b4b8ac1ac4705fffd6d2f43d1c887dff191efb73`
 - Live result: decision `TIER_1` (2), uptime `9980` bps, downtime `86` minutes of `43200`, credit `1000` bps, `is_credit_owed = true`
 
